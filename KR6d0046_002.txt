@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:48:35.370060
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:08
 #+TITLE: 觀音玄義
 #+PROPERTY: CBETA_ID T34n1726
 #+PROPERTY: ID KR6d0046
