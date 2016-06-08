@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:48:35.370060
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:08
 #+TITLE: 觀音玄義
 #+PROPERTY: CBETA_ID T34n1726
 #+PROPERTY: ID KR6d0046
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 34, No. 1726
 #+PROPERTY: VOL 34
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6d0046_T_002-0884c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
 ¶
-
- 觀音玄義卷下¶
+觀音玄義卷下¶
 ¶
 隋天台智者大師說　門人灌頂記¶
 
